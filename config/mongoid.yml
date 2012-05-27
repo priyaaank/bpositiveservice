@@ -1,0 +1,8 @@
+development:
+  host: localhost
+  port: 27017
+  database: bpositive_dev
+  persist_in_safe_mode: true
+  autocreate_indexes: false
+  allow_dynamic_fields: false
+  identity_map_enabled: true
